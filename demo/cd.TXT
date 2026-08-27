@@ -1,0 +1,4 @@
+ngrok http 8080
+cloudflared tunnel --url http://127.0.0.1:8080
+
+(1ba53031987e25375dfb5c06b6f4ab79)token 
